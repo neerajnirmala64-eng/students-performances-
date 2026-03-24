@@ -17,7 +17,7 @@ Original file is located at
 """
 
 # Install Streamlit (only needed in Colab/Notebook)
-!pip install streamlit
+pip install streamlit
 
 import streamlit as st
 import joblib
